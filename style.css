@@ -1,3 +1,80 @@
-.ichigo {
+#ichigo {
 display: flex;
+}
+
+#Profile {
+font-size: 30px;
+background: rgb(87, 86, 87);
+color: #f6f1f1;
+margin-left: 200px;
+}
+
+#wrap {
+margin-left: 900px;
+}
+
+#About {
+font-size: 20px;
+margin-top: 50px;
+margin-right: 50px;
+}
+
+#Bicycle {
+font-size: 20px;
+margin-top: 50px;
+}
+
+
+
+.banana {
+display: flex;
+gap: 30px;
+}
+
+.circle img {
+width: 100px;
+height: 100px;
+border-radius: 50%;
+margin-left: 480px;
+}
+
+
+.About {
+font-size: 50px;
+text-align: center;
+padding-left: 30px;
+}
+
+.Bicycle {
+font-size: 50px;
+text-align: center;
+padding-left: 30px;
+}
+
+ul {
+display: flex;
+justify-content: center;
+list-style: none;
+gap: 20px;
+}
+
+.mikan {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+text-align: center;
+margin-right: 250px;
+margin-left: 250px;
+padding-left: 30px;
+gap: 10px;
+}
+
+.ringo {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+grid-template-rows: 200px;
+text-align: center;
+margin-right: 250px;
+margin-left: 250px;
+padding-left: 30px;
+gap: 10px;   
 }
