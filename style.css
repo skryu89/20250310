@@ -2,7 +2,7 @@
 display: flex;
 }
 
-#Profile {
+#Profile a {
 font-size: 30px;
 background: rgb(87, 86, 87);
 color: #f6f1f1;
